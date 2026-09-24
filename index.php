@@ -1,6 +1,6 @@
 <?php
 // method by vKevin#0001 / vKevin#6666
-$polish_shinobi = "Your Discord Tag";
+$creator = "polish_shinobi";
 // method by vKevin#0001 / vKevin#6666
 ?>
 <title>Dashboard</title>
